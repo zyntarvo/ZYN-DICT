@@ -1,8 +1,24 @@
 ZYN-DICT — автономная установка
 
-Запустите ZYN-DICT-Setup-1.0.0-x64.exe.
-Все файлы .bin должны находиться в одной папке с установщиком.
-Не переименовывайте их. Интернет для установки не требуется.
+Официальная загрузка только с GitHub Releases:
+https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0
+
+Скачайте все четыре файла с этой страницы в одну папку:
+
+  ZYN-DICT-Setup-1.0.0-x64.exe
+  ZYN-DICT-Setup-1.0.0-x64-1.bin
+  ZYN-DICT-Setup-1.0.0-x64-2.bin
+  ZYN-DICT-Setup-1.0.0-x64-3.bin
+
+Прямые ссылки:
+
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin
+
+Не переименовывайте файлы. Один .exe без трёх .bin — неполный пакет.
+После скачивания интернет для установки не нужен.
 
 Система: Windows 10 версии 1809 или новее / Windows 11, x64.
 Windows 7 этой версией приложения не поддерживается.

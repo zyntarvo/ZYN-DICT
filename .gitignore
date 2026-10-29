@@ -15,3 +15,15 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+_publish.ps1
+_publish.py
+_fix_commit.cmd
+_upload_release.ps1
+_upload_release.py
+_upload_bins.py
+_upload_one_by_one.py
+_check_rel.py
+_push.cmd
+RELEASE_NOTES.md
+_cred.in
+_msg.txt

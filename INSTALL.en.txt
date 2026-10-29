@@ -1,8 +1,24 @@
 ZYN-DICT - Offline Installation
 
-Run ZYN-DICT-Setup-1.0.0-x64.exe.
-Keep all three .bin files in the same folder as the installer.
-Do not rename them. No internet connection is required for installation.
+Official download (GitHub Releases only):
+https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0
+
+Download all four files from that page into one folder:
+
+  ZYN-DICT-Setup-1.0.0-x64.exe
+  ZYN-DICT-Setup-1.0.0-x64-1.bin
+  ZYN-DICT-Setup-1.0.0-x64-2.bin
+  ZYN-DICT-Setup-1.0.0-x64-3.bin
+
+Direct links:
+
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin
+  https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin
+
+Do not rename the files. The .exe is not a complete installer without the three .bin files.
+After download, no internet connection is required for installation.
 
 System requirements: Windows 10 version 1809 or later / Windows 11, x64.
 This version of the application does not support Windows 7.
