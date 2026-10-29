@@ -17,10 +17,10 @@
 ## Демо
 
 <p align="center">
-  <a href="https://youtu.be/z0BAuryCltU"><img src="https://img.youtube.com/vi/z0BAuryCltU/maxresdefault.jpg" alt="Демо ZYN-DICT на YouTube" width="900"></a>
+  <a href="https://zyntarvo.github.io/ZYN-DICT/">
+    <img src="docs/video-preview.png" alt="Смотреть демо" width="900">
+  </a>
 </p>
-
-<p align="center"><a href="https://youtu.be/z0BAuryCltU"><b>Смотреть на YouTube</b></a></p>
 
 <p align="center">
   <img src="docs/screenshots/04-app.png" alt="ZYN-DICT" width="900">

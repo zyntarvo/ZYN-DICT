@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ZYN-DICT — Demo</title>
+  <style>
+    html,body{margin:0;height:100%;background:#0a0e17;color:#f1f5f9;font-family:Inter,Arial,sans-serif}
+    .wrap{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 16px;gap:18px;
+      background-image:linear-gradient(rgba(34,211,238,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(34,211,238,.04) 1px,transparent 1px);background-size:48px 48px}
+    img.logo{width:96px;height:96px}
+    h1{margin:0;font-size:22px;letter-spacing:.04em;background:linear-gradient(135deg,#22d3ee,#67e8f9);-webkit-background-clip:text;background-clip:text;color:transparent}
+    .frame{width:min(960px,100%);aspect-ratio:16/9;border:1px solid rgba(34,211,238,.22);border-radius:14px;overflow:hidden;box-shadow:0 0 40px rgba(34,211,238,.14)}
+    iframe{width:100%;height:100%;border:0;display:block}
+    a.back{color:#22d3ee;text-decoration:none;font-size:14px}
+    a.back:hover{text-decoration:underline}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <img class="logo" src="logo.png" alt="ZYN-DICT">
+    <h1>ZYN-DICT — Demo</h1>
+    <div class="frame">
+      <iframe
+        src="https://www.youtube.com/embed/z0BAuryCltU?rel=0&autoplay=1"
+        title="ZYN-DICT demo"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    </div>
+    <a class="back" href="https://github.com/zyntarvo/ZYN-DICT">← GitHub repository</a>
+  </div>
+</body>
+</html>

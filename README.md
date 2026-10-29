@@ -46,10 +46,10 @@
 ## Demo
 
 <p align="center">
-  <a href="https://youtu.be/z0BAuryCltU"><img src="https://img.youtube.com/vi/z0BAuryCltU/maxresdefault.jpg" alt="ZYN-DICT demo on YouTube" width="920"></a>
+  <a href="https://zyntarvo.github.io/ZYN-DICT/">
+    <img src="docs/video-preview.png" alt="Play demo video" width="920">
+  </a>
 </p>
-
-<p align="center"><a href="https://youtu.be/z0BAuryCltU"><b>Watch on YouTube</b></a> · <code>youtu.be/z0BAuryCltU</code></p>
 
 <p align="center">
   <img src="docs/screenshots/04-app.png" alt="ZYN-DICT — Graphite Orbit interface" width="920">
