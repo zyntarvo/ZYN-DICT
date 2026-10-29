@@ -1,0 +1,26 @@
+ZYN-DICT — Copyright (c) 2026 ZynTarvo. All rights reserved.
+
+You may download, install and use this application for personal,
+evaluation and non-commercial purposes.
+
+This repository does not grant an open-source license for the
+application source code. Redistribution of the installer and bundled
+files is allowed only together with this notice and THIRD_PARTY_NOTICES.md.
+
+This distribution includes third-party software and model weights that
+remain under their own licenses. Those terms control the corresponding
+components even if they are stricter than this notice.
+
+In particular, Qwen2.5-3B-Instruct is licensed under the Qwen RESEARCH
+LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.
+That grant is for non-commercial research and evaluation. Commercial use
+of the Qwen materials requires a separate license from Alibaba Cloud.
+See licenses/Qwen-Research-LICENSE.txt.
+
+THE SOFTWARE AND MODELS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND. USE AT YOUR OWN RISK.
+
+Author: ZynTarvo
+https://zyntarvo.com
+https://t.me/zyntarvo
+https://www.youtube.com/@ZynTarvo

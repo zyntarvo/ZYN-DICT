@@ -1,0 +1,17 @@
+# Never commit the installer payload or local models
+*.bin
+ZYN-DICT-Setup-*.exe
+ZYN-DICT.exe
+_internal/
+models/
+data/
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+Thumbs.db
