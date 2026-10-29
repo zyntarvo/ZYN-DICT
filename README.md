@@ -33,6 +33,7 @@
 <p align="center"><b>Created by ZynTarvo</b> · <i>Nothing Is Impossible</i></p>
 
 <p align="center">
+  <a href="#demo">Demo</a> ·
   <a href="#install">Install</a> ·
   <a href="#how-it-works">How it works</a> ·
   <a href="#features">Features</a> ·
@@ -41,6 +42,14 @@
 </p>
 
 ---
+
+## Demo
+
+<p align="center">
+  <a href="https://youtu.be/z0BAuryCltU"><img src="https://img.youtube.com/vi/z0BAuryCltU/maxresdefault.jpg" alt="ZYN-DICT demo on YouTube" width="920"></a>
+</p>
+
+<p align="center"><a href="https://youtu.be/z0BAuryCltU"><b>Watch on YouTube</b></a> · <code>youtu.be/z0BAuryCltU</code></p>
 
 <p align="center">
   <img src="docs/screenshots/04-app.png" alt="ZYN-DICT — Graphite Orbit interface" width="920">
