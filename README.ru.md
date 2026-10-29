@@ -10,7 +10,7 @@
   Офлайн-диктовка для Windows. Whisper и Qwen работают локально — без облака, без аккаунта, без оплаты за токены.
 </p>
 
-<p align="center"><a href="README.md">English README</a> · <a href="https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0">Официальная загрузка v1.0.0</a></p>
+<p align="center"><a href="README.md">English README</a></p>
 
 ---
 
@@ -18,22 +18,18 @@
   <img src="docs/screenshots/04-app.png" alt="ZYN-DICT" width="900">
 </p>
 
-## Официальная загрузка
+## Установка
 
-Качай **только** с GitHub Releases этого репозитория:
+Файлы установщика лежат **в этом репозитории**, рядом с README:
 
-**https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0**
+| Файл | Размер |
+|---|---:|
+| [ZYN-DICT-Setup-1.0.0-x64.exe](ZYN-DICT-Setup-1.0.0-x64.exe) | 2.39 МБ |
+| [ZYN-DICT-Setup-1.0.0-x64-1.bin](ZYN-DICT-Setup-1.0.0-x64-1.bin) | 1.86 ГиБ |
+| [ZYN-DICT-Setup-1.0.0-x64-2.bin](ZYN-DICT-Setup-1.0.0-x64-2.bin) | 1.86 ГиБ |
+| [ZYN-DICT-Setup-1.0.0-x64-3.bin](ZYN-DICT-Setup-1.0.0-x64-3.bin) | 928 МБ |
 
-Файлы `.bin` — это ассеты релиза (их нет во вкладке Code: лимит git 100 МБ). На странице релиза они стоят рядом с `.exe`.
-
-| Файл | Размер | Скачать |
-|---|---:|---|
-| [ZYN-DICT-Setup-1.0.0-x64.exe](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe) | 2.39 МБ | [EXE](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe) |
-| [ZYN-DICT-Setup-1.0.0-x64-1.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin) | 1.86 ГиБ | [BIN 1](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin) |
-| [ZYN-DICT-Setup-1.0.0-x64-2.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin) | 1.86 ГиБ | [BIN 2](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin) |
-| [ZYN-DICT-Setup-1.0.0-x64-3.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin) | 928 МБ | [BIN 3](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin) |
-
-Нужны **все четыре файла** в одной папке, имена не менять. Один `.exe` без `.bin` — неполный пакет. ~9.4 ГБ свободно. Windows 10 1809+ / 11, x64.
+Скачай все четыре (клик по файлу или **Code → Download ZIP**) в одну папку, имена не меняй. Один `.exe` без `.bin` — неполный пакет. ~9.4 ГБ свободно. Windows 10 1809+ / 11, x64.
 
 Подробно: [`INSTALL.ru.txt`](INSTALL.ru.txt)
 

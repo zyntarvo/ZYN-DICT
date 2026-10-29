@@ -6,3 +6,4 @@
 *.txt text
 *.md text
 *.xml text
+ZYN-DICT-Setup-*.bin filter=lfs diff=lfs merge=lfs -text

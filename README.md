@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0"><img src="https://img.shields.io/github/v/release/zyntarvo/ZYN-DICT?style=for-the-badge&color=22d3ee&label=Official%20download" alt="Official download"></a>
-  &nbsp;
-  <a href="https://github.com/zyntarvo/ZYN-DICT/releases/latest"><img src="https://img.shields.io/github/downloads/zyntarvo/ZYN-DICT/total?style=for-the-badge&color=22d3ee&label=Downloads" alt="Downloads"></a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Windows-10%20(1809+)%20%7C%2011%20x64-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   &nbsp;
   <img src="https://img.shields.io/badge/Offline-100%25%20local-0ea5e9?style=for-the-badge" alt="Offline">
@@ -35,7 +31,7 @@
 <p align="center"><b>Created by ZynTarvo</b> · <i>Nothing Is Impossible</i></p>
 
 <p align="center">
-  <a href="#official-download">Download</a> ·
+  <a href="#install">Install</a> ·
   <a href="#how-it-works">How it works</a> ·
   <a href="#features">Features</a> ·
   <a href="#privacy">Privacy</a> ·
@@ -69,27 +65,21 @@ Choose a field  →  Hold / click Z  →  Speak  →  Release
       →  Recognize locally  →  Optional polish locally  →  Insert
 ```
 
-## Official download
+## Install
 
-Get the installer **only** from this GitHub release — not from mirrors, not from random folders:
+Installer files sit in this repository, next to this README:
 
-**https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0**
+| File | Size |
+|---|---:|
+| [ZYN-DICT-Setup-1.0.0-x64.exe](ZYN-DICT-Setup-1.0.0-x64.exe) | 2.39 MB |
+| [ZYN-DICT-Setup-1.0.0-x64-1.bin](ZYN-DICT-Setup-1.0.0-x64-1.bin) | 1.86 GiB |
+| [ZYN-DICT-Setup-1.0.0-x64-2.bin](ZYN-DICT-Setup-1.0.0-x64-2.bin) | 1.86 GiB |
+| [ZYN-DICT-Setup-1.0.0-x64-3.bin](ZYN-DICT-Setup-1.0.0-x64-3.bin) | 928 MB |
 
-The three `.bin` files are **GitHub Release assets** (too large for git). They live on that Releases page, next to the `.exe`. Click each name to download.
+The `.exe` alone is **not** the full app. You need **all four files** in one folder, original names.
 
-| File | Size | Official download |
-|---|---:|---|
-| [ZYN-DICT-Setup-1.0.0-x64.exe](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe) | 2.39 MB | [Download EXE](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64.exe) |
-| [ZYN-DICT-Setup-1.0.0-x64-1.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin) | 1.86 GiB | [Download BIN 1](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-1.bin) |
-| [ZYN-DICT-Setup-1.0.0-x64-2.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin) | 1.86 GiB | [Download BIN 2](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-2.bin) |
-| [ZYN-DICT-Setup-1.0.0-x64-3.bin](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin) | 928 MB | [Download BIN 3](https://github.com/zyntarvo/ZYN-DICT/releases/download/v1.0.0/ZYN-DICT-Setup-1.0.0-x64-3.bin) |
-
-Checksums: [`SHA256SUMS.txt`](SHA256SUMS.txt) · same hashes on the [release page](https://github.com/zyntarvo/ZYN-DICT/releases/tag/v1.0.0)
-
-The `.exe` alone is **not** the full app. You need **all four files**.
-
-1. Download all four from the official release into **one empty folder**. Do not rename them.
-2. Optionally verify SHA-256.
+1. Download the four files from the list above (or **Code → Download ZIP**).
+2. Optionally check [`SHA256SUMS.txt`](SHA256SUMS.txt).
 3. Run the setup EXE. Default path: `C:\Program Files\ZYN-DICT` (or Browse to another drive).
 4. Wait for splash: model check → restore if needed → engines ready.
 5. Pick microphone, language, hotkey. Dictate.

@@ -1,6 +1,4 @@
-# Never commit the installer payload or local models
-*.bin
-ZYN-DICT-Setup-*.exe
+# Local build junk — setup payload is committed (LFS)
 ZYN-DICT.exe
 _internal/
 models/
@@ -24,6 +22,7 @@ _upload_bins.py
 _upload_one_by_one.py
 _check_rel.py
 _push.cmd
+_finish.py
 RELEASE_NOTES.md
 _cred.in
 _msg.txt
