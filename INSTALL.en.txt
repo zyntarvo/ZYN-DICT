@@ -1,0 +1,36 @@
+ZYN-DICT - Offline Installation
+
+Download the full setup from Google Drive:
+https://drive.google.com/file/d/1zW7d_2Nxkb35j_-8pgrA1i3qsbd1WnJR/view?usp=drive_link
+
+Unpack ZYN-DICT-Setup.rar. Keep all four files in one folder:
+
+  ZYN-DICT-Setup-1.0.0-x64.exe
+  ZYN-DICT-Setup-1.0.0-x64-1.bin
+  ZYN-DICT-Setup-1.0.0-x64-2.bin
+  ZYN-DICT-Setup-1.0.0-x64-3.bin
+
+Do not rename the files. The .exe is not a complete installer without the three .bin files.
+After download, no internet connection is required for installation.
+
+System requirements: Windows 10 version 1809 or later / Windows 11, x64.
+This version of the application does not support Windows 7.
+The installer is native: no separate installation of .NET, Python or WebView2
+is needed to run it. Application libraries and local models are included.
+
+Default location: C:\Program Files\ZYN-DICT.
+Use the Browse button to choose another available drive or folder.
+Approximately 9.4 GiB of free space is required for the application,
+working models and a local backup of the models for offline recovery.
+
+Settings: <installation folder>\data\settings.json.
+Working models: <installation folder>\models.
+Model backup: <installation folder>\data\dependency_payload.
+Settings are preserved when updating or uninstalling the application.
+To uninstall, use Windows Installed apps or run unins000.exe in the
+installation folder.
+
+You can launch the application at the end of installation. During startup,
+an animated splash screen accompanies model verification and loading.
+
+The installer is not yet signed with a publisher certificate.
