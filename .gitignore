@@ -1,4 +1,6 @@
-# Local build junk — setup payload is committed (LFS)
+# Installer payload — not in git
+*.bin
+ZYN-DICT-Setup-*.exe
 ZYN-DICT.exe
 _internal/
 models/
@@ -23,6 +25,9 @@ _upload_one_by_one.py
 _check_rel.py
 _push.cmd
 _finish.py
+_gh.py
+_add_bin.cmd
+_upload_bins_lfs.py
 RELEASE_NOTES.md
 _cred.in
 _msg.txt
